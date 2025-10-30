@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Hey, I’m Zaim<br>🔧 I build websites using React and Tailwind<br>💡 I also code in C# and C when I’m not doing web stuff<br>🚀 Focused on making things fast, clean, and actually usable<br>☕ Fueled by curiosity and late-night ideas<br>🧩 Currently learning how to break fewer things while building more
+👨‍💻 Hey, I’m Zaim<br>🔧 I build websites using React and Tailwind<br>💡 I also code in C# and C++ when I’m not doing web stuff<br>🚀 Focused on making things fast, clean, and actually usable<br>☕ Fueled by curiosity and late-night ideas<br>🧩 Currently learning how to break fewer things while building more
 
 
 ## 🌐 Socials:
