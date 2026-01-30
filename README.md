@@ -1,5 +1,11 @@
-# 💫 About Me:
-👨‍💻 Hey, I’m Zaim<br>🔧 I build websites using React and Tailwind<br>💡 I also code in C# and C++ when I’m not doing web stuff<br>🚀 Focused on making things fast, clean, and actually usable<br>☕ Fueled by curiosity and late-night ideas<br>🧩 Currently learning how to break fewer things while building more
+Zaim Halili | Junior Developer
+Building scalable backend solutions and real-world products.
+
+💻 Primary Stack: Specialized in C#, .NET 8, and ASP.NET Core.
+🌐 Full-Stack: Experience building modern UIs with React and Tailwind CSS.
+🚀 Founder of Equathora: A live platform with 60+ active users, built on a .NET backend.
+🎓 Current Status: 4th-year IT student focusing on software architecture and SQL databases.
+⚡ Philosophy: Clean code, high performance, and user-centric design.
 
 
 ## 🌐 Socials:
