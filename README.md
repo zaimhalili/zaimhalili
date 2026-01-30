@@ -1,12 +1,12 @@
-Zaim Halili | Junior Developer
+<strong>Zaim Halili | Junior Developer</strong></br>
 Building scalable backend solutions and real-world products.
 
-💻 Primary Stack: Specialized in C#, .NET 8, and ASP.NET Core.
-🌐 Full-Stack: Experience building modern UIs with React and Tailwind CSS.
-🚀 Founder of Equathora: A live platform with 60+ active users, built on a .NET backend.
-🎓 Current Status: 4th-year IT student focusing on software architecture and SQL databases.
-⚡ Philosophy: Clean code, high performance, and user-centric design.
-
+💻 Primary Stack: Specialized in C#, .NET 8, and ASP.NET Core.</br>
+🌐 Full-Stack: Experience building modern UIs with React and Tailwind CSS.</br>
+🚀 Founder of Equathora: A live platform with 60+ active users, built on a .NET backend.</br>
+🎓 Current Status: 4th-year IT student focusing on software architecture and SQL databases.</br>
+⚡ Philosophy: Clean code, high performance, and user-centric design.</br>
+</br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halili_zaim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halilizaim@gmail.com) 
