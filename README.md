@@ -1,10 +1,10 @@
 <strong>Zaim Halili | Junior Developer</strong></br>
 Building scalable backend solutions and real-world products.
 
-💻 Primary Stack: Specialized in C#, .NET 8, and ASP.NET Core.</br>
-🌐 Full-Stack: Experience building modern UIs with React and Tailwind CSS.</br>
+💻 Primary Stack: Specialized in C#, .NET 9, and ASP.NET Core.</br>
+🌐 Full-Stack: Experience building modern UIs with React JS and Tailwind CSS.</br>
 🚀 Founder of Equathora: A live platform with 60+ active users, built on a .NET backend.</br>
-🎓 Current Status: 4th-year IT student focusing on software architecture and SQL databases.</br>
+🎓 Current Status: 4th-year IT student focusing on software.</br>
 ⚡ Philosophy: Clean code, high performance, and user-centric design.</br>
 </br>
 
