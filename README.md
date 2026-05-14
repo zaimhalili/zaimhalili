@@ -1,42 +1,47 @@
-<strong>Zaim Halili | Junior Developer</strong></br>
-Building scalable backend solutions and real-world products.
+# ⚡ Zaim Halili | Junior Developer
 
-💻 Primary Stack: Specialized in C#, .NET 9, and ASP.NET Core.</br>
-🌐 Full-Stack: Experience building modern UIs with React JS and Tailwind CSS.</br>
-🚀 Founder of Equathora: A live platform with 60+ active users, built on a .NET backend.</br>
-🎓 Current Status: 4th-year IT student focusing on software.</br>
-⚡ Philosophy: Clean code, high performance, and user-centric design.</br>
-</br>
+> Building scalable backend solutions, real-world products, and occasionally fixing the bugs I introduced five minutes ago.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/halili_zaim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:halilizaim@gmail.com) 
+💻 **Primary Stack:** Specialized in C#, .NET 9, and ASP.NET Core.
+🌐 **Full-Stack:** Experience building modern UIs with React JS and Tailwind CSS.
+🚀 **Founder of Equathora:** A live platform with 60+ active users, successfully running on a .NET backend.
+🎓 **Current Status:** 4th-year IT student focusing on software engineering.
+🤖 **Philosophy:** Works fine on my local machine. Also: clean code, high performance, and user-centric design.
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zaimhalili&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zaimhalili&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaimhalili&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+---
+
+## 🌐 Connect with Me
+[![Instagram](https://shields.io)](https://instagram.com) 
+[![email](https://shields.io)](mailto:halilizaim@gmail.com) 
+
+## 💻 Tech Stack
+![C#](https://shields.io) ![.Net](https://shields.io) ![React](https://shields.io) ![TailwindCSS](https://shields.io) ![JavaScript](https://shields.io) ![Vite](https://shields.io) ![C++](https://shields.io) ![C](https://shields.io) ![PHP](https://shields.io) ![Vercel](https://shields.io) ![GitHub](https://shields.io)
+
+## 📊 GitHub Stats
+![](https://vercel.app)
+![](https://vercel.app)
+![](https://vercel.app)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zaimhalili&theme=material-palenight&no-frame=true&no-bg=true&margin-w=4)
+![](https://vercel.app)
 
 ## 🐍 My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{zaimhalili}/{zaimhalili}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{zaimhalili}/{zaimhalili}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{zaimhalili}/{zaimhalili}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="githubusercontent.com" />
+    <source media="(prefers-color-scheme: light)" srcset="githubusercontent.com" />
+    <img alt="github-snake" src="githubusercontent.com" />
   </picture>
 </div>
 
-<hr>
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://vercel.app)
 
----
-[![](https://visitcount.itsvg.in/api?id=zaimhalili&icon=4&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="right">
+  <a href="itsvg.in">
+    <img src="itsvg.in" alt="Visitor Count" />
+  </a>
+</div>
