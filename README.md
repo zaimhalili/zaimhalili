@@ -1,4 +1,4 @@
-# ⚡ Zaim Halili | Programmer
+# ⚡ Zaim Halili | Junior Dev
 
 # 💫 About Me:
 🔭 I’m currently working on scaling Equathora and optimizing its .NET 9 backend infrastructure.<br>👯 I’m looking to collaborate on open-source .NET libraries, enterprise backend systems, or web API development.<br>🤔 I’m looking for help with advanced system architecture patterns and microservices deployment strategies.<br>🌱 I’m currently learning advanced cloud architecture, performance profiling in C#, and system scaling.<br>💬 Ask me about ASP.NET Core, building production-ready products from scratch, or full-stack integration with React.<br>⚡Fun fact I chose the .NET ecosystem because I genuinely prefer strict typing and compiled performance over interpreted languages.
