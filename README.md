@@ -1,4 +1,4 @@
-# ⚡ Zaim Halili | Junior Dev
+# ⚡ Zaim Halili | Software Dev
 
 # 💫 About Me:
 🔭 I’m currently scaling Equathora and optimizing its .NET 9 backend infrastructure.<br>👯 Looking to collaborate on open-source projects.
