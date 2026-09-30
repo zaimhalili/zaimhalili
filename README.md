@@ -1,7 +1,7 @@
 # ⚡ Zaim Halili | Software Dev
 
 # 💫 About Me:
-🔭 I’m currently scaling Equathora and optimizing its .NET 9 backend infrastructure.<br>👯 Looking to collaborate on open-source projects.
+🔭 I’m currently scaling Equathora and optimizing its .NET 9 backend infrastructure.<br>👯 Looking to collaborate on open-source projects.<br>💜 [My Portfolio Website](https://zaimhalili.vercel.app)
 
 
 ## 🌐 Socials:
