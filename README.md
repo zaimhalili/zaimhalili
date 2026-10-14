@@ -2,13 +2,6 @@
 
 <img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ1NDdmNG5ka2piYjd0cXZzMGVsejFwaXc2OHE0cm14dzhyb3A5ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" alt="animation" />
 
-<div align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</div>
-
 <br clear="both">
 
 ---
